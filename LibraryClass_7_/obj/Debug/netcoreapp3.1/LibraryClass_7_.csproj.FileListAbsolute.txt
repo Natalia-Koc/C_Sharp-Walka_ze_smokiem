@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\LibraryClass_7_\bin\Debug\netcoreapp3.1\LibraryClass_7_.deps.json
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\LibraryClass_7_\bin\Debug\netcoreapp3.1\LibraryClass_7_.dll
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\LibraryClass_7_\bin\Debug\netcoreapp3.1\LibraryClass_7_.pdb
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\LibraryClass_7_\obj\Debug\netcoreapp3.1\LibraryClass_7_.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\LibraryClass_7_\obj\Debug\netcoreapp3.1\LibraryClass_7_.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\LibraryClass_7_\obj\Debug\netcoreapp3.1\LibraryClass_7_.AssemblyInfo.cs
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\LibraryClass_7_\obj\Debug\netcoreapp3.1\LibraryClass_7_.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\LibraryClass_7_\obj\Debug\netcoreapp3.1\LibraryClass_7_.dll
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\LibraryClass_7_\obj\Debug\netcoreapp3.1\LibraryClass_7_.pdb
